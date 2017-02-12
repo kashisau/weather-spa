@@ -1,0 +1,16 @@
+.HourBox {
+  display: inline-block;
+  width: 12rem;
+  height: 8rem;
+  font-size: 0;
+  margin: 1rem; }
+
+.HourBox-temp, .HourBox-time {
+  display: block;
+  font-size: 3rem;
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.1); }
+
+.HourBox-time {
+  font-size: 1rem;
+  padding: 1rem; }

@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+  h1 {
+    margin: 0;
+    padding: 2rem;
+  }
+}
+
+.CurrentBar {
+  height: 70vh;
+
+  &-temp {
+    font-size: 10rem;
+  }
+
+  &-time {
+    font-size: 4rem;
+  }
+}
